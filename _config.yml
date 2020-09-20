@@ -3,7 +3,7 @@ name: 'Suporte MiniPCP'
 description: 'Site de ajuda e suporte do MiniPCP'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/minipcp-docs'
 email: 'suporte@minipcp.com.br'
 
 include: ["_pages"]
