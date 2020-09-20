@@ -11,3 +11,5 @@ A nova ferramenta de importação de dados do MiniPCP simplifica e ajuda a autom
 
 ## Como usar
 Clique na opção de menu `Diversos >> Importação de dados...` como indicado na imagem acima, e o utilitário de importação de dados será exibido.
+
+![Aba principal do utilitário de importação de dados]({{ site.baseurl }}/assets/images/tutoriais/importacao-de-dados/002-pagina-principal.png)
